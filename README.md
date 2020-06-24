@@ -4,4 +4,4 @@
 
 Attention, la procédure de lancement est particulièrement complexe :
 
-- double-cliquer sur le fichier `index.html`
+- double-cliquer sur le fichier `index.html` 
