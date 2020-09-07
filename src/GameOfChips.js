@@ -1,5 +1,7 @@
+import Combo from './src/Combo.js'
+
 const COMBOS = [
-  {name: "RoyalFlush", class:RoyalFlush },
+  {name: "RoyalFlush", class: RoyalFlush},
   {name: "StraightFlush", class: StraightFlush},
   {name: "FourOfAKind", class: FourOfAKind},
   {name: "FullHouse", class: FullHouse},

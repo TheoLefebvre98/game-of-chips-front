@@ -6,3 +6,5 @@ class FullHouse extends Combo {
     return nbVals.includes(3) && nbVals.includes(2)
   }
 }
+
+export default FullHouse;

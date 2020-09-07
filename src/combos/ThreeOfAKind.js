@@ -6,3 +6,5 @@ class ThreeOfAKind extends Combo {
     return nbVals.includes(3)
   }
 }
+
+export default ThreeOfAKind;

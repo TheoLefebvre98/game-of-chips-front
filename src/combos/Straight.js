@@ -18,3 +18,5 @@ class Straight extends Combo {
   }
 
 }
+
+export default Straight;
