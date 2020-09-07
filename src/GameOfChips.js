@@ -1,4 +1,13 @@
-import Combo from './src/Combo.js'
+import RoyalFlush from './combos/RoyalFlush.js'
+import StraightFlush from './combos/StraightFlush.js'
+import FourOfAKind from './combos/FourOfAKind.js'
+import FullHouse from './combos/FullHouse.js'
+import Flush from './combos/Flush.js'
+import Straight from './combos/Straight.js'
+import ThreeOfAKind from './combos/ThreeOfAKind.js'
+import TwoPairs from './combos/TwoPairs.js'
+import Pair from './combos/Pair.js'
+import HighCard from './combos/HighCard.js'
 
 const COMBOS = [
   {name: "RoyalFlush", class: RoyalFlush},

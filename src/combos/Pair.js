@@ -1,3 +1,5 @@
+import Combo from '../Combo.js'
+
 class Pair extends Combo {
   static isAvailable(cards) {
     let occureds = Combo.occureds(cards)

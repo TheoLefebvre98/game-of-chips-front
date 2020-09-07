@@ -1,3 +1,5 @@
+import Combo from '../Combo.js'
+
 class Straight extends Combo {
   static isAvailable(cards) {
     let values = cards.map(card => card.value())
