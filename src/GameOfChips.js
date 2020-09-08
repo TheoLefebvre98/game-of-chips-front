@@ -1,3 +1,7 @@
+import Combo from './Combo.js'
+
+import Deck from './Deck.js'
+
 import RoyalFlush from './combos/RoyalFlush.js'
 import StraightFlush from './combos/StraightFlush.js'
 import FourOfAKind from './combos/FourOfAKind.js'
